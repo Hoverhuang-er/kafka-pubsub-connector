@@ -6,13 +6,6 @@ Description
 
 Kafka to Google PubSub connector.
 
-.. image:: https://travis-ci.org/sorinescu/kafka-pubsub.svg?branch=master
-    :target: https://travis-ci.org/sorinescu/kafka-pubsub
-
-.. image:: https://coveralls.io/repos/github/sorinescu/kafka-pubsub/badge.svg?branch=master
-    :target: https://coveralls.io/github/sorinescu/kafka-pubsub?branch=master
-
-
 Install
 -------
 
