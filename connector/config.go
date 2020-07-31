@@ -10,7 +10,7 @@ import (
 type BaseConfig struct {
 	Provider string`json:"provider"`
 	Broker string`json:"broker"`
-	Topic string
+	Topic string`json:"topic"`
 	Zookeeper string`json:"zookeeper"`
 	Credential string`json:"credential"`
 }

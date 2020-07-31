@@ -1,0 +1,3 @@
+{
+  "provider": "gcp","broker": "localhost:9092","topic": "connect_test","zookeeper": "localhost:2181","credential": "./cred.json"
+}
