@@ -1,10 +1,10 @@
-kafka-pubsub
+kafka-pubsub-connector
 ============
 
 Description
 -----------
 
-Kafka to Google PubSub connector.
+Kafka to Google PubSub or AWS SNS or AWS SQS or Azure ServiceBus connector.
 
 Install
 -------
